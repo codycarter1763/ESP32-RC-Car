@@ -71,11 +71,11 @@ For our LEDs, we used Ohm’s law to calculate what resistors we needed to use t
 
 Our project was gladly sponsored by PCBWay. PCBWay has provided professional solutions to students and electronics enthusiasts, and we believe that their sponsorship would be essential to easy and reliable construction of ESP32 breakout boards for the car and controller. Such boards will allow for removability in case of ESP32 failure or programming, as well as options for different pin assignments. With this breakout board, we could apply to more projects as an easy and reliable way to add a more permanent setup for the ESP32. It’s an honor to share the results with the PCBWay community and contribute our project to their platform.  <br>
  <br>
-We have not received our circuit boards yet, since the arrival date is after the project due date. But the linked photo below is a simulation of what the final product will look like. 
-![image](https://github.com/user-attachments/assets/3253581c-9c10-4329-aa81-215169151ca1)
+ 
+![image-asset](https://github.com/user-attachments/assets/73752af5-76d6-4b9c-81b5-29572b55f53f)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/922f5bfa-00ec-41fb-b49f-0a670eb609c0" width=60% height=60%>
+  <img src="https://github.com/user-attachments/assets/dae28951-7f12-48b8-9759-b87d8ef46dc5" width=60% height=60%>
 </p>
 
 <h1>Code Overview</h1>
